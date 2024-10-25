@@ -1,0 +1,23 @@
+- Download data save into db (MongoDB)
+
+- find some nice CSS 
+
+- MCMC, expectation maximisation (Bayesian stuff)
+
+- AR model vs LSTM 
+
+- Bayesian with prior dist using interest rate to inform decision 
+
+- using multiple stocks to predict interest rates (find causality)
+
+- 
+
+- use cms code to visualize code 
+
+- 
+
+
++ Reference 
+https://github.com/TheQuantPy/youtube-tutorials/blob/main/2022/001%20Jan-Mar/2022-01-19%20Monte%20Carlo%20Simulation%20for%20Option%20Pricing%20with%20Python%20(Basic%20Ideas%20Explained).ipynb
+
+
